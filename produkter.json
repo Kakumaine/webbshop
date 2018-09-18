@@ -4,13 +4,13 @@
         "prodPrice":"3.50$",
         "prodImage":"watermelon.png"
     },{
-        "prodName":"Lemon",
+        "prodName":"Lime",
         "prodPrice":"3.50$",
-        "prodImage":"lemon.png"
+        "prodImage":"lime.png"
     },{
         "prodName":"Banana",
         "prodPrice":"3.50$",
-        "prodImage":"banana.jpg"
+        "prodImage":"banana.png"
     },{
         "prodName":"Tomato",
         "prodPrice":"3.50$",
@@ -18,10 +18,10 @@
     },{
         "prodName":"Pears",
         "prodPrice":"3.50$",
-        "prodImage":"pears.jpg"
+        "prodImage":"pear.png"
     },{
-        "prodName":"Sallad",
+        "prodName":"Peach",
         "prodPrice":"3.50$",
-        "prodImage":"sallad.jpg"
+        "prodImage":"peach.png"
     }
 ]
