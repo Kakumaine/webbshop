@@ -1,0 +1,79 @@
+body {
+    margin-bottom: 1300px;
+}
+
+#container {
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+}
+
+.content {
+    border: 5px solid rgb(93, 250, 53);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#footer {
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 0; 
+    right: 0; 
+    width: 100%;
+    text-align: center;
+}
+
+.productListClass {
+    border:2px solid black;
+    background-color: bisque;
+}
+
+.ans {
+    border: 4px solid black;
+    background-color: rgba(255, 255, 255, 0.829);
+    font-style: italic;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+}
+
+table {
+    font-style: initial;
+    font-weight: 600;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Gamja Flower', cursive;
+}
+
+@media (max-width: 600px) {
+
+}
+
+@media (max-width: 1200px) {
+
+}
+
+
+label {
+    width: 250px;
+    float: left;
+    display: block;
+    font-weight: bold;
+    padding: 20px;
+    border: solid black;
+    font-family: 'Gamja Flower', cursive;
+}
+
+.box {
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+}
